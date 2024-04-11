@@ -2,6 +2,9 @@ site_name: CodeVerse
 
 theme:
     name: 'material'
+    icon:
+      logo: material/code-json
+
     palette:
 
     # Light mode
