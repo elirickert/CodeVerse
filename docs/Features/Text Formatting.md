@@ -9,7 +9,7 @@ You can have lists like this
 Or checklist lists to
 
 - [ ] ==Get==
-- [ ] things
+- [x] things ✅ 2024-04-11
 - [ ] ~~done~~
 
 Also, get highlights and strikethroughs as above (similar to Obsidian).
