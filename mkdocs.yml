@@ -37,7 +37,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
-  - callouts
+  # - callouts
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -63,6 +63,9 @@ plugins:
       categories:
         - categories
         - tags
+
+extra_css:
+  - elisTheming.css
 
 extra_javascript:
   - .javascripts/mathjax.js
