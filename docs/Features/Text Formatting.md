@@ -29,14 +29,21 @@ xrmLib.Rest.createRecord("bkw_timestamp", data);
 
 some formatting: <font class="file">this</font> and <mark class="hltr-red">that</mark>
 
+
 > [!note] hello
 > hello note
+
+
 
 > [!tip] 
 > tip
 
+
+
 > [!info]-
 > asdf
+
+
 
 
 ![[Client Script_forms_eventhandler.png]] 
