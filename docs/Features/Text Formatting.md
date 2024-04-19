@@ -43,7 +43,10 @@ some formatting: <font class="file">this</font> and <mark class="hltr-red">that<
 > [!info]-
 > asdf
 
+![Client Script_forms_eventhandler](_dirs/_Attachments/Client%20Script_forms_eventhandler.png)
+
 ![Client Script_forms_eventhandler](Client%20Script_forms_eventhandler.png)
+
 
 ![[Client Script_forms_eventhandler.png]] 
 
